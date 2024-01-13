@@ -7,18 +7,8 @@
         "url": "adventure/mainBikeLogo.png",
         "alt": "Adventure Main Bike Logo"
       },
-      "shortDesc": "Explore a world of adventure, with motorcycles built to always reach the end of the road, ready to go anywhere and accomplish anything.",
-      "familyPageBannerDesc": "The next generation Tiger has arrived. The state-of-the-art adventure bikes with exciting distinctive three-cylinder engines, pioneering progressive technology and equipment, rider ergonomics for ultimate control, and flexible neutral handling. Every Tiger is built with maximum capabilities to take you anywhere in style, comfort and control. The Triumph Tiger is the ultimate adventure series of adventure bikes that allow you to test every moment.",
+      "familyPageBannerDesc": "Следната Тигер генерација пристигна. Најсовремените авантуристички мотори со возбудливи карактеристични трицилиндрични мотори, пионерска прогресивна технологија и опрема, ергономија на возачот за врвна контрола и флексибилно неутрално управување. Секој Tiger мотор е изграден со максимални способности да ве однесе насекаде со стил, удобност и контрола. Triumph Tiger е врвна авантуристичка серија на авантуристички мотори кои ви овозможуваат да го тестирате секој момент.",
       "familyPageBannerVideo": "adventure/adventureHeroVideo.webm",
-      "topSectionInfo": {
-        "image": {
-          "src": "/images/adventure/firstSectionImage.avif",
-          "alt": "Adventure Bikes"
-        },
-        "title": "Направен за Авантури",
-        "desc1": "Секој моторцикл во 'Tigеr' фамилијата е роден со вистински дух за авантура. 'Triumph Tiger' моторциклот живее во нашата крв од моментот кога првиот 'Triumph Tiger' моторцикл освои три златни медали на '1936 International Six Days Trial' во 1936 година, и со тоа започна првото поглавје од најдолготрајниот авантуристички моторцикл.",
-        "desc2": "Познато по нивното агилно управување, командна позиција на возење, карактеристична силуета и опрема со високи спецификации, секој 'Tiger' моторцикл нуди највисоко ниво на стил, удобност и контрола."
-      },
       "promo": [
         {
           "title": "Tiger 1200 Gt, GT Pro & Gt Explorer",
@@ -73,7 +63,7 @@
           "id": 1,
           "subFamilyName": "tiger-900",
           "title": "Нова Tiger 900 Серија",
-          "price": "Наскоро",
+          "price": 14290,
           "url": "/motorcycles/adventure/tiger-900",
           "subFamilyPageInfo": {
             "heroSlogans": ["НОВИОТ", "TIGER 900"],
@@ -364,7 +354,7 @@
           "id": 2,
           "subFamilyName": "tiger-sport-660",
           "title": "Tiger Sport 660",
-          "price": 9590,
+          "price": 9290,
           "url": "/motorcycles/adventure/tiger-sport-660",
           "shortDesc": "Тројна предност во перформансите, водечка моќ и спецификации во класата и удобна употребливост при возење - сето тоа со одлична вредност.",
           "subFamilyPageInfo": {
@@ -605,9 +595,6 @@
           "accessory": {
             "banner": {
               "image": "/images/adventure/tigerSport660/tigerSport660AccesoryHero.avif"
-            },
-            "infoText": {
-              "title": "Персонализирајте го вашиот Tiger Sport 660"
             },
             "accessoryTypes": [
               {
@@ -950,10 +937,6 @@
           "accessory": {
             "banner": {
               "image": "/images/classics/speed400/speed400AccessoryBanner.avif"
-            },
-            "infoText": {
-              "title": "Додајте ваш белег врз Speed 400",
-              "desc": "На располагање ви е селекција од преку 20 оригинални Triupmh аксесоари за оваа серија на мотори. Аксесоарите кои ќе ги додадете може да бидат додадени на вашиот мотор во фабриката. Aксесоарите се дизајнирани од истиот тим кој го креираше Speed 400 и доаѓаат со две-годишна гаранција."
             },
             "accessoryTypes": [
               {
@@ -1985,7 +1968,7 @@
     {
       "id": 2,
       "type": "classics",
-      "shortDesc": "Triumph builds ground-breaking motorcycles and incredible three-cylinder engines with an emphasis on power, torque and instant response.",
+      "familyPageBannerDesc": null,
       "familyPageBannerVideo": "adventure/adventureHeroVideo.webm",
       "promo": [
         {
@@ -2677,7 +2660,7 @@
               "src": "/images/classics/scrambler400X/scrambler400XTopSectionImageBG.avif",
               "alt": "Scrambler 400 X Top Section Image BG"
             }
-          }
+          } 
         },
         "speed-twin-900": {
           "id": 3,
@@ -3956,7 +3939,7 @@
     {
       "id": 3,
       "type": "roadsters",
-      "shortDesc": "Мотори кои ги менуваат правилата за 'Naked Bike'. Препознатливите 3-цилиндрични мотори на Triumph се дизајнирани за моќност, вртежен момент и моментален одговор.",
+      "familyPageBannerDesc": "Мотори кои ги менуваат правилата за 'Naked Bike'. Препознатливите 3-цилиндрични мотори на Triumph се дизајнирани за моќност, вртежен момент и моментален одговор.",
       "familyPageBannerVideo": "roadsters/roadsterHeroVideo.webm",
       "configPageInfo": {
         "desc": "Triumph создава револуционерни мотоцикли и неверојатни трицилиндрични мотори со акцент на моќноста, вртежен момент и моменталната реакција.",
@@ -5719,7 +5702,8 @@
     {
       "id": 4,
       "type": "rocket-3",
-      "shortDesc": "Опремен со најголемиот сериски мотор во светот и со најголем вртежен момент, ова е врвниот мускулен родстер со високи перформанси.",
+      "familyPageBannerDesc": null,
+      "familyPageBannerVideo": null,
       "configPageInfo": {
         "desc": "Опремен со најголемиот сериски мотор во светот и со најголем вртежен момент, ова е врвниот мускулен родстер со високи перформанси.",
         "link": "/configure/families/rocket-3"
@@ -6089,7 +6073,7 @@
     {
       "id": 5,
       "type": "sport",
-      "shortDesc": "Мотори кои ги менуваат правилата за 'Naked Bike'. Препознатливите 3-цилиндрични мотори на Triumph се дизајнирани за моќност, вртежен момент и моментален одговор.",
+      "familyPageBannerDesc": "Мотори кои ги менуваат правилата за 'Naked Bike'. Препознатливите 3-цилиндрични мотори на Triumph се дизајнирани за моќност, вртежен момент и моментален одговор.",
       "familyPageBannerVideo": "/images/sport/familyPageBannerVideo.webm",
       "configPageInfo": {
         "link": "/configure/families/sport"
@@ -6131,12 +6115,6 @@
         "desc": "Новите и помладите возачи ограничени на А2 лиценца сè уште можат да уживаат во Daytona 660. Вашиот продавач на Triumph може да постави специјален држач за APS и програма за моторот што ја ограничува коњската сила на 35 kW.",
         "image": "/images/sport/grayCaro/caro5.avif"
       }],
-      "audioSection": {
-        "audio": "/images/roadsters/audio.mp3",
-        "title": "Целосен Пакет",
-        "desc": "Водечкиот сервисен интервал од 16.000 километри во класата, двегодишната гаранција за неограничени километри и високата вредност за препродажба нудат најдобра вредност во својата класа.",
-        "logo": "/images/roadsters/logoAudioSection.png"
-      },
       "promo": [
         {
           "title": "НОВАТА DAYTONA 660",
@@ -6671,12 +6649,10 @@
       "edition": "adventure",
       "price": 9290,
       "specs": {
-        "cc": 398,
-        "hp": 20,
+        "cc": 6800,
         "torque": 37.5,
         "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
+        "serviceInterval": "16.000km"
       },
       "gallery": {
         "modelImage": {
@@ -9910,62 +9886,6 @@
       }
     },
     {
-      "id": 30,
-      "title": "scrambler 1200 X (MY24)",
-      "model": "scrambler-1200-x-2024",
-      "category": "classics",
-      "subFamilyCategory": "scrambler-1200",
-      "edition": "classics",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/scrambler1200XMy24Model.png",
-          "alt": "scrambler 1200 X (MY24)"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Bonneville дво-цилинричен мотор",
-        "info2": "Максимална јачина - 90 PS",
-        "info3": "Максимален вртежен момент - 110 Nm"
-      }
-    },
-    {
-      "id": 31,
-      "title": "Scrambler 1200 XE (MY24)",
-      "model": "scrambler-1200-xe-2024",
-      "category": "classics",
-      "subFamilyCategory": "scrambler-1200",
-      "edition": "classics",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/scrambler1200XeMy24Model.png",
-          "alt": "scrambler 1200 XE (MY24)"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Bonneville дво-цилинричен мотор",
-        "info2": "Максимална јачина - 90 PS",
-        "info3": "Максимален вртежен момент - 110 Nm"
-      }
-    },
-    {
       "id": 32,
       "title": "Scrambler 1200 XC",
       "model": "scrambler-1200-xc-2023",
@@ -10202,7 +10122,7 @@
     {
       "id": 36,
       "title": "Scrambler 900",
-      "model": "scrambler-900-2023",
+      "model": "scrambler-900",
       "category": "classics",
       "subFamilyCategory": "scrambler-900",
       "edition": "900cc",
@@ -10515,234 +10435,6 @@
       }
     },
     {
-      "id": 42,
-      "title": "Bobber Purple Stealth Edition",
-      "model": "bobber-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-bobber",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/bobberStealth.avif",
-          "alt": "Bobber Purple Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 43,
-      "title": "Scrambler 900 Orange Stealth Edition",
-      "model": "scrambler-900-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-scrambler-900",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 900,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/scrambler900Orange.avif",
-          "alt": "Scrambler 900 Orange Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 44,
-      "title": "Speed Twin 900 Green Stealth Edition",
-      "model": "speed-twin-900-2023",
-      "category": "classics",
-      "subFamilyCategory": "speed-twin-900",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/speedTwin900Stealth.avif",
-          "alt": "Speed Twin 900 Green Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      },
-      "subFamilyPromo": {
-        "title": "Новиот Speed Twin 900 Green Stealth Edition",
-        "desc": "Најуспешната прилагодена класика на Triumph е рачно доработена во светло зелена боја. Впечатливата Speed ​​​​Twin 900 Green Stealth Edition дава изјава за стил… и е достапна само една година."
-      }
-    },
-    {
-      "id": 45,
-      "title": "Speed Twin 1200 Red Stealth Edition",
-      "model": "speed-twin-1200-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-speed-twin-1200",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/speedTwin1200Stealth.avif",
-          "alt": "Speed Twin 1200 Red Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 46,
-      "title": "Speedmaster Red Stealth Edition",
-      "model": "speedmaster-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-speedmaster",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/speedmasterRedStealth.avif",
-          "alt": "Speedmaster Red Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 46,
-      "title": "T100 Blue Stealth Edition",
-      "model": "t100-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-t100",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/t100Stealth.avif",
-          "alt": "T100 Blue Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 47,
-      "title": "T120 Blue Edition Stealth",
-      "model": "t120-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-t120",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/t120Stealth.avif",
-          "alt": "T120 Blue Edition Stealth"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
-      "id": 48,
-      "title": "T120 Black Stealth Edition",
-      "model": "t120-black-2023",
-      "category": "classics",
-      "subFamilyCategory": "bonneville-t120",
-      "edition": "stealth",
-      "price": null,
-      "specs": {
-        "cc": 398,
-        "hp": 20,
-        "torque": 37.5,
-        "horsePower": 40,
-        "serviceInterval": "16.000km",
-        "motorType": "TR"
-      },
-      "gallery": {
-        "modelImage": {
-          "src": "/images/classics/t120BlackStealth.avif",
-          "alt": "T120 Black Stealth Edition"
-        }
-      },
-      "shortSpecInfo": {
-        "info1": "1,200cc Thruxton тунинг мотор",
-        "info2": "Повеќе сила, со подобра агилност во склоп со автентичната ДНК на 'Cafe-Racer' моторите.",
-        "info3": "Неверојатни финиши на боја и стил."
-      }
-    },
-    {
       "id": 49,
       "title": "Bonneville Bobber Chrome Edition",
       "model": "bobber-chrome-edition-2023",
@@ -10829,9 +10521,9 @@
     {
       "id": 52,
       "title": "Scrambler 900 Chrome Edition",
-      "model": "scrambler-900-chrome-edition-2023",
+      "model": "scrambler-900",
       "category": "classics",
-      "subFamilyCategory": "bonneville-scrambler-900",
+      "subFamilyCategory": "scrambler-900",
       "edition": "chrome",
       "price": 12490,
       "specs": {
@@ -11219,6 +10911,7 @@
       }
     },
     {
+      "video": null,
       "image": "/images/home/mainCarousell/speed400CaroImage.avif",
       "imageMobile": "/images/home/mainCarousell/speed400CaroImageMobile.avif",
       "title": "Нови Попусти, Нови Цени",
